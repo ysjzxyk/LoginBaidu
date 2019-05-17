@@ -1,9 +1,9 @@
 url=http://www.baidu.com
-text_id=��¼
+text_id=登录
 username_id=TANGRAM__PSP_10__footerULoginBtn
 user_id=TANGRAM__PSP_10__userName
 pwd_id=TANGRAM__PSP_10__password
 login_id=TANGRAM__PSP_10__submit
 errorid=TANGRAM__PSP_10__error
 logout=s_usersetting_top
-dropout=�˳�
+dropout=ÍË³ö
